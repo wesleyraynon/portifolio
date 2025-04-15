@@ -5,9 +5,18 @@ body{
 h1{
     color:rgb(255, 102, 0);
 }
-text
+
 .titulo{
-    color:rgb(0, 0, 0);
+    color:rgb(223, 5, 5);
 text-align: center;
-border:none;
+border:none
+}
+
+button{
+color: blue;
+font: size 100px; ;
+}
+
+.imagem-gato{
+    width: 400px;
 }
